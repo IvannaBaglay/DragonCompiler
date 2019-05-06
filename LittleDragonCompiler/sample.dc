@@ -1,0 +1,12 @@
+	PROCEDURE M (A : SIGNAL;);
+BEGIN
+IF A THEN
+(**)
+ELSE (**) ENDIF
+
+IF A THEN
+(**)
+ENDIF
+
+
+END;
